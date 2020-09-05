@@ -11,8 +11,8 @@
   grid-gap: 1rem;
   justify-content: start;
   align-content: start;
-  height: calc(30vw + 3rem);
-  width: calc(30vw + 3rem);
+  height: calc(30vw + 2rem);
+  width: calc(30vw + 2rem);
 }
 
 .square {
